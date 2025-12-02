@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Payments & Integrations Engineer** at Equity Bank Group, where I architect and scale high-volume payment systems processing **10B+ KES daily** across 4,000+ merchants. I specialize in building robust microservices, enterprise middleware, and secure APIs that power modern financial infrastructure.
+I'm a **Payments & Integrations Engineer** at Equity Bank Group, where I architect and scale high-volume payment systems and services. I specialize in building robust microservices, enterprise middleware, and secure APIs that power modern financial infrastructure.
 
 - 🏦 Currently engineering payment integrations handling **$40B+ in annual transactions**
 - 🔧 Passionate about **distributed systems**, **event-driven architectures**, and **DevOps automation**
