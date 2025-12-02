@@ -4,9 +4,9 @@
   
 ### Payments & Integrations Engineer | Building Scalable Financial Systems
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://localhost:5173/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mainagerald.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavian-maina-gerald/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flavianmaina23@gmail.com)
 
 </div>
 
@@ -150,9 +150,9 @@ Feel free to reach out if you want to collaborate or just chat about tech!
   
 ### 📫 How to reach me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge)](http://localhost:5173/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge)](https://www.mainagerald.com/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/flavian-maina-gerald/)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge)](mailto:flavianmaina23@gmail.com)
 
 </div>
 
