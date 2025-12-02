@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Payments & Integrations Engineer** at Equity Bank Group, where I architect and scale high-volume payment systems and services. I specialize in building robust microservices, enterprise middleware, and secure APIs that power modern financial infrastructure.
 
@@ -23,7 +23,7 @@ I'm a **Payments & Integrations Engineer** at Equity Bank Group, where I archite
 
 ---
 
-## 💼 What I Do
+## What I Do
 
 ```java
 public class PaymentsEngineer {
@@ -47,7 +47,7 @@ public class PaymentsEngineer {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -79,38 +79,38 @@ public class PaymentsEngineer {
 
 ---
 
-## 📊 Key Achievements
+## Key Achievements
 
-🎯 **Performance Optimization**
+ **Performance Optimization**
 - Scaled payment systems to handle **10B+ KES daily** with 30% quarterly growth
 - Reduced notification latency from **75s to 30s** for 350K+ monthly transactions
 - Achieved **99.9% uptime** across multi-tiered UAT environments
 
-🔒 **Security & Compliance**
+ **Security & Compliance**
 - Implemented OAuth2/JWT authentication securing **$40B+ in annual transactions**
 - Built API Gateway with rate limiting and encryption policies
 - Ensured compliance with banking security standards
 
-⚡ **DevOps Excellence**
+ **DevOps Excellence**
 - Reduced release cycles from **2 weeks to under 5 days**
 - Decreased MTTR by **60%** through advanced monitoring with Prometheus/Grafana
 - Achieved **40% reduction in downtime** via high-availability patterns
 
 ---
 
-## 🌟 Featured Projects
+## Featured
 
-### 🏦 Enterprise Payment Integration Platform
+###  Enterprise Payment Integration Platform
 High-volume payment gateway integrating with mobile money operators (Safaricom, AirtelDRC) and 4,000+ merchants
 - **Tech:** Java, Spring Boot, Kafka, PostgreSQL, Kubernetes
 - **Impact:** 10B+ KES daily transaction volume, 30% quarterly growth
 
-### 🔌 Omni ESB Middleware
+###  Omni ESB Middleware
 Enterprise service bus orchestrating routing between core banking systems and external partners
 - **Tech:** Spring Boot, Kafka, Azure DevOps, Docker
 - **Impact:** 40% reduction in downtime, zero-downtime deployments
 
-### 📊 Real-Time Monitoring Dashboard
+###  Real-Time Monitoring Dashboard
 Advanced observability platform for payment systems and APIs
 - **Tech:** Prometheus, Grafana, ELK Stack
 - **Impact:** 60% reduction in MTTR, proactive issue detection
@@ -121,15 +121,15 @@ Advanced observability platform for payment systems and APIs
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mainagerald&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mainagerald&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-## 🎓 Education
+## Education
 
 **BSc, Actuarial Science**  
 University of Nairobi
@@ -139,16 +139,16 @@ University of Nairobi
 ## 💬 Let's Connect!
 
 I'm always interested in discussing:
-- 💳 Payment systems architecture
-- 🔧 Microservices and distributed systems
-- ☁️ Cloud-native applications
-- 🚀 DevOps best practices
+-  Systems architecture
+-  Microservices and distributed systems
+-  Cloud-native applications
+-  DevOps best practices
 
 Feel free to reach out if you want to collaborate or just chat about tech!
 
 <div align="center">
   
-### 📫 How to reach me
+### How to reach me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge)](https://www.mainagerald.com/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/flavian-maina-gerald/)
@@ -162,6 +162,6 @@ Feel free to reach out if you want to collaborate or just chat about tech!
   
 ### ⚡ "Building the financial infrastructure of tomorrow, one commit at a time"
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=mainagerald&color=blueviolet&style=for-the-badge)
 
 </div>
